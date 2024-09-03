@@ -1,7 +1,7 @@
 ## 👋 Olá sou o Rafaell Sbrana
 - 🌱 Estou aprendendo Java e SQL
 - 📫 How to reach me [...](https://www.linkedin.com/in/rafael-sbrana-5b3a0361/)
-- 😄 Pronouns: Ele/Dee
+- 😄 Pronouns: Ele/Dele
 - ⚡ Estou a procura do meu primeiro emprego na area de tecnoogia.
 
 
