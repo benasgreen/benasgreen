@@ -1,4 +1,4 @@
-## 👋 Olá sou o Rafaell Sbrana
+## 👋 Olá sou o Rafael Sbrana
 - 🌱 Estou aprendendo Java e SQL
 - 📫 How to reach me [...](https://www.linkedin.com/in/rafael-sbrana-5b3a0361/)
 - 😄 Pronouns: Ele/Dele
