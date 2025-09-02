@@ -15,9 +15,8 @@
 ---
 
 ## 📂 Projetos em destaque
-- [AppViagem](link-do-repo) → Sistema para controle de viagens e consumo de combustível  
-- [Bolos_de_Pote](link-do-repo) → Banco de dados para cadastro de clientes e vendas  
-- [Serviços_Temporários](link-do-repo) → Sistema de gestão de contratos e mão de obra especializada  
+- [AppViagem](https://github.com/benasgreen/exercicios-java/blob/main/src/exercicio51.java) → Sistema para controle de viagens e consumo de combustível  
+- [Bolos_de_Pote]((https://github.com/benasgreen/programacao-em-bancos-de-dados)) → Banco de dados para cadastro de clientes e vendas  + todos os exercicios ja feitos
 
 ---
 
