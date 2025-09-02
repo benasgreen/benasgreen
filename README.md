@@ -1,8 +1,28 @@
-## 👋 Olá sou o Rafael Sbrana
-- 🌱 Estou aprendendo Java e SQL
-- 📫 How to reach me [...](https://www.linkedin.com/in/rafael-sbrana-5b3a0361/)
-- 😄 Pronouns: Ele/Dele
-- ⚡ Estou a procura do meu primeiro emprego na area de tecnoogia.
+# 👋 Olá, eu sou Rafael Sbrana  
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre)  
+💻 Explorando Desenvolvimento Backend com **Java** e **Banco de Dados**  
+🚀 Apaixonado por tecnologia, aprendizado contínuo e inovação  
+
+---
+
+## 🛠️ Tecnologias que estou estudando
+- Java | Programação Orientada a Objetos  
+- SQL Server | Modelagem de Banco de Dados  
+- HTML | CSS | JavaScript  
+- Git & GitHub  
+
+---
+
+## 📂 Projetos em destaque
+- [AppViagem](link-do-repo) → Sistema para controle de viagens e consumo de combustível  
+- [Bolos_de_Pote](link-do-repo) → Banco de dados para cadastro de clientes e vendas  
+- [Serviços_Temporários](link-do-repo) → Sistema de gestão de contratos e mão de obra especializada  
+
+---
+
+📫 Vamos nos conectar: [LinkedIn](seu-link-linkedin)
+
 
 
 
